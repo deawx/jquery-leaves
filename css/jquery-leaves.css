@@ -1,0 +1,36 @@
+/*!
+ * jQuery Leaves
+ *
+ * Written by sizeof(cat) <sizeofcat AT riseup DOT net>
+ * Licensed under the MIT license
+ * Version 2.0.0
+ */
+
+.catLeaf,
+.catLeaf-falling {
+	position: fixed;
+	top: 0;
+	left: 0;
+	opacity: 0;
+	z-index: 0;
+}
+
+.x1 {
+	width: 75px;
+	height: 75px;
+}
+
+.x2 {
+	width: 100px;
+	height: 100px;
+}
+
+.x3 {
+	width: 125px;
+	height: 125px;
+}
+
+.x4 {
+	width: 150px;
+	height: 150px;
+}
